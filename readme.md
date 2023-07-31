@@ -22,7 +22,7 @@ Please ensure that double clicking the same image does not render the verify but
 
 Use click event to govern the image selection.
 
-There are 3 states:
+There are 4 states:
 
 State 1: When user has not clicked the tiles.In this case a message should show- Please click on the identical tiles to verify that you are not a robot and no Verify button or Reset button should show because no tiles have been clicked.
 
